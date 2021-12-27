@@ -12,6 +12,7 @@ public class SpringSecurityLdapApplication {
 	}
 
 	//TODO PROGRAMA NÃO ESTÁ FUNCIONANDO. CORRIGIR BUG
+	//vide https://www.youtube.com/watch?v=-wDUChgvYgU&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&index=9
 
 
 }
